@@ -61,7 +61,7 @@ PÚBLICO ALVO;
 Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato
 do Gênero ser extremamente versátil e atemporal, a única restrição é que a
 classificação permitida começa à partir dos 12 anos. Pensamos em aderir a
-faixa etária de 12~13, 15~25 à 35~40/45.
+faixa etária de 12-13, 15-25 à 35-40/45.
 
 EQUIPE NECESSÃRIA PARA O DESENVOLVIMENTO;
 Hunggard pode ser criado por qualquer jogador pois não é um jogo de
