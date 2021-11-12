@@ -38,18 +38,17 @@ O jogo tera estética medieval com traços artisticos de reinos de magia e  tamb
 Plataforma;
 O jogo será projetado em um tabuleiro tendo como núcleo todas as mecânicas citadas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irão poder manusear os personagens, mapa e o jogo em si.
 
+
 ### Público Alvo
 Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa à partir dos 12 anos.
-
-
-
-
-
 
 
 # Game Design Document
  
 ## Hunggard
+
+![imagem_2021-11-12_194011](https://user-images.githubusercontent.com/89281859/141571615-ff8695e5-78eb-4b30-9758-b40d728bc87a.png)
+
 
 Hunggard é um jogo medieval que tem como foco a utilização da magia para combates entre reinos distintos. O enredo e funcionamento transitam em torno desta temática onde o duelo é voltado para a posse total da magia em prol do reino vencedor. O jogo será projetado em um tabuleiro tendo o núcleo como todas as citadas mecânicas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irá desenvolver poder manusear os personagens, mapa e o jogo em si. Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa a partir dos 12 anos. Pensamos em aderir a faixa etária de 12-13, 15-25 à 35-40.
 
