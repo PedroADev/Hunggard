@@ -1,31 +1,81 @@
-# FABRICA-DE-PROJETO
-DOCUMENTAÇÃO
+# High Concept
 
- João Thiago 211602
- Robson 211392
- Jaqueline 210057
- Pedro Luz 210882
- Pedro Mattos 211689
+### Identidade do Jogo
+Hunngard é um jogo rpg com temática medieval voltado para conflitos entre reinos, desta forma o estopim do jogo ocorre na batalha pela posse da Magia , que será dada ao reino  campeão. 
+
+### Objetivos
+Como  todo jogo RPG, Hunggard tera uma tragetória em busca da vitória, os personagens com suas habilidades e sempre também contando com a sorte e estratégias para  alcançar o topo.
+
+### Motivação do jogador
+A função do jogador é jogar os dados, criar estratégias analisando o mapa e criar as melhores jogadas para vencer.
+
+### Gênero
+RPG, pseudo pvp.
+
+### História
+A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hunggard, se vive na grande "Era da magia", diversos reinos coabitam em conflito por um motivo, depois da descoberta da magia, os humanos passaram a utilizá-la de todas as formas a todo momento em suas vidas, ao usufruir da energia mágica de forma inconsequente, a natureza acabou pagando o preço, as terras passaram a não dar mais frutos, os animais selvagens começaram pouco a pouco a entrar em estinção, tudo isso por efeito colateral do mal uso da magia.”
+
+### Mecânicas
+Hunggard tem como as seguintes regras/mecânicas:
+
+São 6 players;
+São utilizados DADOS para o desenvolvimento da partida (passos dos champs);
+10 personagens voltados aos reinos (temática medieval);
+Ambos os players tem uma jogada por rodada e isso define o desempenho na partida podendo ficar para trás ou ultrapassar os adversários;
+Cada champ possui suas pseudo habilidades para entrar em combate.
+
+### Caracteristicas e Diferenciais
+Hunggard tem como diferencial uma temática extremamente atrativa com foco total em entreter os jogadores com a problemática medieval do game. Ademais possibilita um aprofundamento estético incrível sobre o conflito principal abordado pela ganância e abstinência dos reinos pelo elemento mais precioso da Era. A seguir uma citação: “Derrubaremos reinos, colinas, montanhas…tudo que estiver em nosso caminho para conquistarmos o maior bem já visto pela humanidade, à Magia.”
+
+### Interface
+A principio, Hunggard será um jogo de tabuleiro, desta forma  o jogo é fisico , tera dados para a interação com os personagens e jogadas no game, cartas também serão utilizadas para informações de poderes e tudo mais.
+
+### Assets
+Estilo da Arte;
+O jogo tera estética medieval com traços artisticos de reinos de magia e  também com dinâmicas de castelo, cavalheiros e etc...
+
+### Mercado
+Plataforma;
+O jogo será projetado em um tabuleiro tendo como núcleo todas as mecânicas citadas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irão poder manusear os personagens, mapa e o jogo em si.
+
+### Público Alvo
+Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa à partir dos 12 anos.
+
+
+
+
+
+
+
+# Game Design Document
  
-TÍTULO;
+## Hunggard
 
-Hunggard
+Hunggard é um jogo medieval que tem como foco a utilização da magia para combates entre reinos distintos. O enredo e funcionamento transitam em torno desta temática onde o duelo é voltado para a posse total da magia em prol do reino vencedor. O jogo será projetado em um tabuleiro tendo o núcleo como todas as citadas mecânicas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irá desenvolver poder manusear os personagens, mapa e o jogo em si. Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa a partir dos 12 anos. Pensamos em aderir a faixa etária de 12-13, 15-25 à 35-40.
 
-DESCRIÇÃO DA LINHA DE FUNCIONAMENTO DO JOGO;
+## HIistório e Gameplay
 
-Hunggard é um jogo medieval que tem como foco a utilização da magia para
-combates entre reinos distintos. O enredo e funcionamento transitam em
-torno desta temática onde o duelo é voltado para a posse total da magia em
-prol do reino vencedor.
+A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hunggard, se vive na grande" Era da magia ", diversos reinos coabitam em conflito por um motivo, depois da descoberta da magia, os humanos passaram a utilizá-la de todas as formas a todo momento em suas vidas, ao usufruir da energia mágica de forma inconsequente, a natureza acabou pagando o preço, como terras passaram a não dar mais frutos, os animais dinamizados pouco a pouco a entrar em estinção, tudo isso por efeito colateral do mal uso da magia. ” 
 
-GÊNERO;
+A gameplay se dá através de personagens que se movem pelas casas do tabuleiro, lutando contra monstro e contra outros jogadores para alcançar a vitória.
 
-O game tem como gênero RPG, uma arena de combate em tempo real
-distinguido pelos turnos de definição de jogabilidade de cada reino/player.
-Desta forma, cada jogador tera suas chances para apostarem tudo na arena e
-“brigar” pela posse da famigerada Magia.
+## Fluxo do Jogo
 
-MECÂNICAS PRINCIPAIS (REGRAS);
+O jogo se torna mais desafiador de acordo com a progressão dos jogadores, que se tornam mais poderosos por conta dos itens coletados ao decorrer do jogo.
+
+## Personagens e Contoles
+
+O jogo conta com 6 personagens que devem ser escolhidos por cada jogador no começo da partida. Eles são divididos em 3 classes : Assassino, Guerreiro e Mago. Cada classe conta com dois personagens. Os personagens se movem pelo tabuleiro de acordo com seu atributo de velocidade e o valor tirado nos dados no início de cada turno. Cada personagem conta com atributos diferentes, que são uteis em diferente situações de combate.
+
+## Principais Conceitos do Gameplay e Características Específicas da Plataforma
+
+O game tem como gênero RPG, uma arena de combate em tempo real distinguido pelos turnos de definição de jogabilidade de cada personagem. O principal conceito de gameplay de Hunggard são as cartas, que são obtidas cada vez em que o personagem do jogador alcançar uma casa específica no talubeiro.
+
+## Mundo do Jogo
+
+O jogo se passa em Hunggard, onde diversos reinos lutam pelo controle total da magia. O jogador poderá se deparar com terousos e monstros durante sua jornada.
+
+## Mecânicas
 
 Hunggard tem como as seguintes regras/mecânicas:
 * São 6 players;
@@ -37,10 +87,10 @@ na partida podendo ficar para trás ou ultrapassar os adversários;
 * Cada champ possui suas pseudo habilidades para entrar em combate.
 
 Ademais o combate será edificado por meio de turnos e atributos especiais;
-Armas físicas usam o atributo BRAVURA para atacar.
-Armas mágicas e feitiços usam o atributo MENTAL para atacar.
-Para se mover e realizar ações o atributo VELOCIDADE é utilizado.
-O atributo Defesa define seus Pontos de Vida e também sua Resistência aos ataques.
+-Armas físicas usam o atributo BRAVURA para atacar.
+-Armas mágicas e feitiços usam o atributo MENTAL para atacar.
+-Para se mover e realizar ações o atributo VELOCIDADE é utilizado.
+-O atributo Defesa define seus Pontos de Vida e também sua Resistência aos ataques.
 
 Atributos:
 BRAVURA 
@@ -48,36 +98,15 @@ VELOCIDADE
 MENTAL
 DEFESA
 
-LISTA DE AÇÕES
+##### LISTA DE AÇÕES
 Mover - Para se mover, o jogador deve, em seu turno, mexer sua miniatura um quadrado por vez no tabuleiro.
+
 Atacar - Para atacar, o alvo deve estar no alcance mínimo de sua arma.
+
 Vasculhar - Para vasculhar o jogador deve estar ao lado de uma pilha de itens no tabuleiro.
 
-HISTÓRIA DO JOGO;
+## Inimigos
 
-A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hunggard, se vive na grande" Era da magia ", diversos reinos coabitam em conflito por um motivo, depois da descoberta da magia, os humanos passaram a utilizá-la de todas as formas a todo momento em suas vidas, ao usufruir da energia mágica de forma inconsequente, a natureza acabou pagando o preço, como terras passaram a não dar mais frutos, os animais dinamizados pouco a pouco a entrar em estinção, tudo isso por efeito colateral do mal uso da magia. ”
+O jogador poderá se depara com monstros, como zumbis e esquelestos, que sempre terão a intenção de atacá-lo.
 
-DIFERENCIAL DO JOGO COM RELAÇÃO DOS DEMAIS (CONCORRÊNCIA);
-
-Hunggard tem como diferencial uma temática determinada com foco total em entreter os jogadores com uma problemática medieval do jogo. Ademais possibilita um aprofundamento estético incrível sobre o conflito principal abordado pela ganância e abstinência dos reinos pelo elemento mais precioso da Era. A seguir uma citação: “Derrubaremos reinos, colinas, montanhas… tudo que estiver em nosso caminho para conquistarmos o maior bem já visto pela humanidade, à Magia.”
-
-PLATAFORMA EM QUE O JOGO SERÁ LANÇADO;
-
-O jogo será projetado em um tabuleiro tendo o núcleo como todas as citadas mecânicas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irá desenvolver poder manusear os personagens, mapa e o jogo em si.
-
-PÚBLICO ALVO;
-
-Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa a partir dos 12 anos. Pensamos em aderir a faixa etária de 12-13, 15-25 à 35-40 / 45.
-
-EQUIPE NECESSÃRIA PARA O DESENVOLVIMENTO;
-
-Hunggard pode ser criado por qualquer jogador pois não é um jogo de programação virtual, basta utilizar os materiais fisícos do Manuel que entre eles são: papel, tesoura, cola, tintas, lápis, impressora 3D ... Um jogador sozinho pode dar inicio à criação do tabuleiro.
-
-CRONOGRAMA E ORÇAMENTO;
-
-Como Hunggard é um tabuleiro, exige um cronograma menor do que um jogo criado por meios de programação por exemplo, precisa-se de materiais físicos (não virtuais como foi dito à cima) para o processo de criação com uma faixa de orçamento bem generosa, depende-se de algumas ferramentas adaptadas como impressora por exemplo, para isso com R $ 50 ~ 80 reais já é a base da criação.
-
-OBJETIVO SUSTENTÁVEL DA ONU;
-
-Em relação à ONU, teremos a discussão de igualdade de gênero, onde um grupo de mulheres lutam pelos seus direitos feministas nesta era tão primitiva e conservadora, onde todos os dias à diversas de silenciamento. Diante disso, elas lutam em prol de uma causa nobre para um retorno futuro positivo e livre de prisões sociais
 
