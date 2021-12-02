@@ -65,7 +65,28 @@ O jogo se torna mais desafiador de acordo com a progressão dos jogadores, que s
 
 ## Personagens e Controles
 
-O jogo conta com 6 personagens que devem ser escolhidos por cada jogador no começo da partida. Eles são divididos em 3 classes : Assassino, Guerreiro e Mago. Cada classe conta com dois personagens. Os personagens se movem pelo tabuleiro de acordo com seu atributo de velocidade e o valor tirado nos dados no início de cada turno. Cada personagem conta com atributos diferentes, que são uteis em diferentes situações de combate.
+O jogo conta com 6 personagens que devem ser escolhidos por cada jogador no começo da partida. Eles são divididos em 3 turmas: Assassino, Guerreiro e Mago. Cada classe conta com dois personagens. Os personagens se movem pelo tabuleiro de acordo com seu atributo de velocidade e o valor tirado nos dados no início de cada turno. Cada personagem conta com atributos diferentes, que são uteis em diferentes situações de combate
+
+## História dos Personagens
+
+# Stella 
+Nascida em uma grande família tradicional de bruxos, Stella foi criada com rigor para atingir as expectativas de uma Bruxa prodígio. Porém desde cedo teve problemas de relacionamento com seus familiares por divergir das expectativas. Stella teve muita dificuldade para atingir as expectativas criadas, acima de tudo ela se apaixonou por uma jovem garota de uma família rival, isso atraiu maus olhares preconceituosos para a pequena Bruxa. Com muito esforço e dedicação Stella finalmente atingiu um incrível potencial mágico, superou todas as barreiras e surpreendeu a todos.
+
+# Johanna 
+uma mulher totalmente diferente das outras de sua aldeia, sempre causando encrenca por onde passa, deixando sempre um rastro de luta. Johanna foi criada por seu pai Adão, que era um ótimo guerreiro da capital, até perder as pernas durante uma batalha. Ele ensinou a sua única filha a lutar bravamente por tudo que ela deseja. Meio imatura e brincalhona, Johanna é uma mulher extremamente forte, que não se deixa abalar pelas criticas de toda aldeia por estar em um lugar que é menos favorável para mulheres. Podemos dizer que ela é a maior guerreira em sua aldeia na frente até mesmo de Brutos, um homem prepotente e arrogante que se diz um dos melhores guerreiros de sua região.
+
+# Double
+Double foi uma criança introspectiva, não tinha hábito de socializar e muito menos fazer amigos. Seus pais sempre tiverem sentimentos de preocupação em relação a isso pois o menino não apresentava carinho nem com os mesmos. Aos 16 anos entrou em uma academia de duelo pois se interessava nas batalhas, mesmo assim continuou sendo um adolescente sombrio que não suportava ninguém ao seu redor. Quando completou 18 anos começou a fazer missões de busca em sua aldeia onde presenciou um massacre terrível de sua equipe onde apenas ele sobreviveu. Voltando à aldeia, Double decidiu dedicar sua vida à melhora de suas habilidades à fim de se sobressair aos seus inimigos e destruir qualquer um que tente enfrentar os seus.
+
+# Ruby
+Forasteiros andavam pela floresta quando ouviram gritos vindo de um vilarejo, ao chegar na cena do crime se depararam com varias pessoas mortas. Próximo a um casal, ouviram o choro de uma criança que estava escondida embaixo do feno. Eles a batizaram como Ruby. Não muito delicados, sua criação foi um pouco severa, sendo treinada desde criança para ser uma assassina. Ruby cresceu ouvindo a historia de seu vilarejo e hoje busca por vingança.
+
+# Steve
+Um incrível guerreiro que desde cedo se destacou em meio aos outros por sua coragem e audácia, apesar de um poderoso combatente com seus músculos e agilidade, Steve se demonstrou muito ineficiente com magias, seu orgulho o impede de se dedicar nessa arte, para ele, a força bruta é o caminho para criar guerreiros, não livros mágicos.
+
+# Tulen
+Um ancião formidável na arte da magia, sua sabedoria faz com que Tullen seja uma arma extremamente letal quando usando feitiços de combate. Tullen foi responsável por criar grandes livros mágicos, isso fez seu nome conhecido, um lendário mago muito respeitado. Apesar de sua idade avançada Tullen continua com a chama do combate em seu coração.
+
 
 ## Principais Conceitos do Gameplay e Características Específicas da Plataforma
 
