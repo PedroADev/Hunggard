@@ -57,11 +57,12 @@ A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hun
 
 A gameplay se dá através de personagens que se movem pelas casas do tabuleiro, lutando contra monstro e contra outros jogadores para alcançar a vitória.
 
-![image](https://user-images.githubusercontent.com/89281859/144680732-b9916940-0e62-4624-8912-630a053efaf2.png)
 
 ## Fluxo do Jogo
 
 O jogo se torna mais desafiador de acordo com a progressão dos jogadores, que se tornam mais poderosos por conta dos itens coletados ao decorrer do jogo.
+
+![image](https://user-images.githubusercontent.com/89281859/144680732-b9916940-0e62-4624-8912-630a053efaf2.png)
 
 ## Personagens e Controles
 
@@ -110,24 +111,24 @@ O jogo se passa em Hunggard, onde diversos reinos lutam pelo controle total da m
 ## Mecânicas
 
 Hunggard tem como as seguintes regras/mecânicas:
+
 * São 6 players;
-* São utilizados DADOS para o desenvolvimento da partida (passos dos
-champs);
-* 10 personagens voltados aos reinos (temática medieval);
+* São utilizados DADOS para o desenvolvimento da partida (quantos passos um jogador poderá andar na rodada e quanto dano um jogador causará ao atacar outro)
 * Ambos os players tem uma jogada por rodada e isso define o desempenho
 na partida podendo ficar para trás ou ultrapassar os adversários;
-* Cada champ possui suas pseudo habilidades para entrar em combate.
 
-Ademais o combate será edificado por meio de turnos e atributos especiais;
+Ademais o combate será edificado por meio de turnos e atributos especiais:
+
 -Armas físicas usam o atributo BRAVURA para atacar.
 -Armas mágicas e feitiços usam o atributo MENTAL para atacar.
 -Para se mover e realizar ações o atributo VELOCIDADE é utilizado.
 -O atributo Defesa define seus Pontos de Vida e também sua Resistência aos ataques.
 
+No começo da sua rodada, o jogador deverá pegar uma carta da pilha de cartas e botar em sua mão;
+
 ![image](https://user-images.githubusercontent.com/89281859/144681503-9c8b273c-ecee-4b73-9d0e-053e65f405e1.png)
 
 ![image](https://user-images.githubusercontent.com/89281859/144681526-c1db7c97-4195-4381-8472-77a70ce44a7e.png)
-
 
 
 Atributos:
@@ -139,6 +140,7 @@ DEFESA
 
 
 ##### LISTA DE AÇÕES
+
 Mover - Para se mover, o jogador deve, em seu turno, mexer sua miniatura um quadrado por vez no tabuleiro.
 
 Atacar - Para atacar, o alvo deve estar no alcance mínimo de sua arma.
@@ -147,6 +149,5 @@ Vasculhar - Para vasculhar o jogador deve estar ao lado de uma pilha de itens no
 
 ## Inimigos
 
-O jogador poderá se deparar com monstros, como zumbis e esqueletos, que sempre terão a intenção de atacá-lo.
-
+Ao retirar uma carta, o jogador pode acabar pegando uma carta de inimigo, que vai lhe causar alguma desvantagem no jogo.
 
