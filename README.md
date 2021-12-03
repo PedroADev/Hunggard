@@ -57,7 +57,7 @@ A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hun
 
 A gameplay se dá através de personagens que se movem pelas casas do tabuleiro, lutando contra monstro e contra outros jogadores para alcançar a vitória.
 
-
+![image](https://user-images.githubusercontent.com/89281859/144680732-b9916940-0e62-4624-8912-630a053efaf2.png)
 
 ## Fluxo do Jogo
 
@@ -72,21 +72,32 @@ O jogo conta com 6 personagens que devem ser escolhidos por cada jogador no come
 # Stella 
 Nascida em uma grande família tradicional de bruxos, Stella foi criada com rigor para atingir as expectativas de uma Bruxa prodígio. Porém desde cedo teve problemas de relacionamento com seus familiares por divergir das expectativas. Stella teve muita dificuldade para atingir as expectativas criadas, acima de tudo ela se apaixonou por uma jovem garota de uma família rival, isso atraiu maus olhares preconceituosos para a pequena Bruxa. Com muito esforço e dedicação Stella finalmente atingiu um incrível potencial mágico, superou todas as barreiras e surpreendeu a todos.
 
+![image](https://user-images.githubusercontent.com/89281859/144680859-5a4537ce-e307-4b51-9231-bb6eb157d7a8.png)
+
 # Johanna 
 uma mulher totalmente diferente das outras de sua aldeia, sempre causando encrenca por onde passa, deixando sempre um rastro de luta. Johanna foi criada por seu pai Adão, que era um ótimo guerreiro da capital, até perder as pernas durante uma batalha. Ele ensinou a sua única filha a lutar bravamente por tudo que ela deseja. Meio imatura e brincalhona, Johanna é uma mulher extremamente forte, que não se deixa abalar pelas criticas de toda aldeia por estar em um lugar que é menos favorável para mulheres. Podemos dizer que ela é a maior guerreira em sua aldeia na frente até mesmo de Brutos, um homem prepotente e arrogante que se diz um dos melhores guerreiros de sua região.
+
+![image](https://user-images.githubusercontent.com/89281859/144681010-6f41d130-af99-4674-baeb-ba2434195bf5.png)
 
 # Double
 Double foi uma criança introspectiva, não tinha hábito de socializar e muito menos fazer amigos. Seus pais sempre tiverem sentimentos de preocupação em relação a isso pois o menino não apresentava carinho nem com os mesmos. Aos 16 anos entrou em uma academia de duelo pois se interessava nas batalhas, mesmo assim continuou sendo um adolescente sombrio que não suportava ninguém ao seu redor. Quando completou 18 anos começou a fazer missões de busca em sua aldeia onde presenciou um massacre terrível de sua equipe onde apenas ele sobreviveu. Voltando à aldeia, Double decidiu dedicar sua vida à melhora de suas habilidades à fim de se sobressair aos seus inimigos e destruir qualquer um que tente enfrentar os seus.
 
+![image](https://user-images.githubusercontent.com/89281859/144681114-134e018f-2b18-41d6-ae9d-eb75089507a4.png)
+
 # Ruby
 Forasteiros andavam pela floresta quando ouviram gritos vindo de um vilarejo, ao chegar na cena do crime se depararam com varias pessoas mortas. Próximo a um casal, ouviram o choro de uma criança que estava escondida embaixo do feno. Eles a batizaram como Ruby. Não muito delicados, sua criação foi um pouco severa, sendo treinada desde criança para ser uma assassina. Ruby cresceu ouvindo a historia de seu vilarejo e hoje busca por vingança.
+
+![image](https://user-images.githubusercontent.com/89281859/144681141-c1533eb5-484a-4514-94cf-ad35410b1cf1.png)
 
 # Steve
 Um incrível guerreiro que desde cedo se destacou em meio aos outros por sua coragem e audácia, apesar de um poderoso combatente com seus músculos e agilidade, Steve se demonstrou muito ineficiente com magias, seu orgulho o impede de se dedicar nessa arte, para ele, a força bruta é o caminho para criar guerreiros, não livros mágicos.
 
+![image](https://user-images.githubusercontent.com/89281859/144681162-e5828884-feef-48ea-9f89-15228fdd88d3.png)
+
 # Tulen
 Um ancião formidável na arte da magia, sua sabedoria faz com que Tullen seja uma arma extremamente letal quando usando feitiços de combate. Tullen foi responsável por criar grandes livros mágicos, isso fez seu nome conhecido, um lendário mago muito respeitado. Apesar de sua idade avançada Tullen continua com a chama do combate em seu coração.
 
+![image](https://user-images.githubusercontent.com/89281859/144681198-c7794a70-4146-4028-a117-234f79b021a1.png)
 
 ## Principais Conceitos do Gameplay e Características Específicas da Plataforma
 
@@ -113,11 +124,19 @@ Ademais o combate será edificado por meio de turnos e atributos especiais;
 -Para se mover e realizar ações o atributo VELOCIDADE é utilizado.
 -O atributo Defesa define seus Pontos de Vida e também sua Resistência aos ataques.
 
+![image](https://user-images.githubusercontent.com/89281859/144681503-9c8b273c-ecee-4b73-9d0e-053e65f405e1.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144681526-c1db7c97-4195-4381-8472-77a70ce44a7e.png)
+
+
+
 Atributos:
 BRAVURA 
 VELOCIDADE
 MENTAL
 DEFESA
+
+
 
 ##### LISTA DE AÇÕES
 Mover - Para se mover, o jogador deve, em seu turno, mexer sua miniatura um quadrado por vez no tabuleiro.
