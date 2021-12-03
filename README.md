@@ -48,7 +48,7 @@ Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato d
 ![imagem_2021-11-12_194011](https://user-images.githubusercontent.com/89281859/141571615-ff8695e5-78eb-4b30-9758-b40d728bc87a.png)
 
 
-Hunggard é um jogo medieval que tem como foco a utilização da magia para combates entre reinos distintos. O enredo e funcionamento transitam em torno desta temática onde o duelo é voltado para a posse total da magia em prol do reino vencedor. O jogo será projetado em um tabuleiro tendo o núcleo como todas as citadas mecânicas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irá desenvolver poder manusear os personagens, mapa e o jogo em si. Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa a partir dos 12 anos. Pensamos em aderir a faixa etária de 12-13, 15-25 à 35-40.
+Hunggard é um jogo medieval que tem como foco a utilização da magia para combates entre reinos distintos. O enredo e funcionamento transitam em torno desta temática onde o duelo é voltado para a posse total da magia em prol do reino vencedor. O jogo será projetado em um tabuleiro tendo o núcleo como todas as citadas mecânicas anteriormente, sendo assim, será um jogo físico onde os jogadores terão acesso visual e também irá desenvolver poder manusear os personagens, mapa e o jogo em si. Como Hunggard é um jogo de ficção, terá diversos públicos alvos pelo fato do Gênero ser extremamente versátil e atemporal, a única restrição é que a classificação permitida começa a partir dos 12 anos. Pensamos em aderir a faixa etária entre 16 e 30 anos.
 
 ## História e Gameplay
 
@@ -117,8 +117,18 @@ Por ser um jogo de tabuleiro, a o único tipo de interface presente em Hunggard 
 Hunggard tem como as seguintes regras/mecânicas:
 
 * O jogo poderá ser jogado de 2 a 6 jogadores;
+
 * São utilizados DADOS para o desenvolvimento da partida (quantos passos um jogador poderá andar na rodada e quanto dano um jogador causará ao atacar outro)
 na partida podendo ficar para trás ou ultrapassar os adversários;
+
+##### LISTA DE AÇÕES
+
+Mover - Para se mover, o jogador deve, em seu turno, mexer sua miniatura um quadrado por vez no tabuleiro.
+
+Atacar - Para atacar, o alvo deve estar no alcance mínimo de sua arma.
+
+Vasculhar - Para vasculhar o jogador deve estar ao lado de uma pilha de itens no tabuleiro.
+
 * Há diversos baús espalhados pelo mapa do jogo. Cada vez em que jogador passar por um, deve tirar uma carta do baralho e botar em sua mão.
 Ademais o combate será edificado por meio de turnos e atributos especiais:
 
@@ -133,11 +143,41 @@ No começo da sua rodada, o jogador deverá pegar uma carta da pilha de cartas e
 
 ![image](https://user-images.githubusercontent.com/89281859/144681526-c1db7c97-4195-4381-8472-77a70ce44a7e.png)
 
+![image](https://user-images.githubusercontent.com/89281859/144686169-51c2fb33-42d7-4f2a-856e-a441d018af55.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686191-d2fd28ea-ebb8-4aa4-9464-0846d5e87621.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686207-92f5d917-3e32-44dc-80a4-53fc5fff37de.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686215-cffdf5f4-056a-4350-bb74-5f29c64de52b.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686229-4e33585d-40c6-4eed-a0d8-5a4542df940e.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686407-c55431fc-8902-42f5-8a16-e08f57d0a5ff.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686412-6322e4e2-31a4-4f7a-ae61-3b01ddd9eabc.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686430-0d34ba85-ee2f-4889-ad9d-4c2e7480b60d.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686917-fa0d9c26-61e4-40a6-8c08-c3482e84ac3f.png)
+
+![image](https://user-images.githubusercontent.com/89281859/144686969-86e76966-f1b1-4c63-8f7c-d26e5bd32aec.png)
+
+
+
+
+
+
+
 
 Atributos:
+
 BRAVURA 
+
 VELOCIDADE
+
 MENTAL
+
 DEFESA
 
 ## Inimigos e Bosses
@@ -148,13 +188,6 @@ Ao retirar uma carta, o jogador pode acabar pegando uma carta de inimigo, que va
 
 Por ser um jogo de tabuleiro, Hunggard não conta com cenas de Computação Gráfica. A diversificação de itens e personagens faz com que os jogadores se sintam motivados a jogar novamente. O jogo concorrerá no mercado com outros jogos de tabuleiro já existentes.
 
-##### LISTA DE AÇÕES
-
-Mover - Para se mover, o jogador deve, em seu turno, mexer sua miniatura um quadrado por vez no tabuleiro.
-
-Atacar - Para atacar, o alvo deve estar no alcance mínimo de sua arma.
-
-Vasculhar - Para vasculhar o jogador deve estar ao lado de uma pilha de itens no tabuleiro.
 
 
 
