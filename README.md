@@ -1,16 +1,16 @@
 # High Concept
 
 ### Identidade do Jogo
-Hunngard é um jogo rpg com temática medieval voltado para conflitos entre reinos, desta forma o estopim do jogo ocorre na batalha pela posse da Magia , que será dada ao reino  campeão. 
+Hunngard é um jogo RPG com temática medieval voltado para conflitos entre reinos, desta forma o estopim do jogo ocorre na batalha pela posse da Magia , que será dada ao reino  campeão. 
 
 ### Objetivos
-Como  todo jogo RPG, Hunggard tera uma tragetória em busca da vitória, os personagens com suas habilidades e sempre também contando com a sorte e estratégias para  alcançar o topo.
+Como  todo jogo RPG, Hunggard terá uma trajetória em busca da vitória, os personagens com suas habilidades e sempre também contando com a sorte e estratégias para  alcançar o topo.
 
 ### Motivação do jogador
 A função do jogador é jogar os dados, criar estratégias analisando o mapa e criar as melhores jogadas para vencer.
 
 ### Gênero
-RPG, pseudo pvp.
+RPG, Battle Royale
 
 ### História
 A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hunggard, se vive na grande "Era da magia", diversos reinos coabitam em conflito por um motivo, depois da descoberta da magia, os humanos passaram a utilizá-la de todas as formas a todo momento em suas vidas, ao usufruir da energia mágica de forma inconsequente, a natureza acabou pagando o preço, as terras passaram a não dar mais frutos, os animais selvagens começaram pouco a pouco a entrar em estinção, tudo isso por efeito colateral do mal uso da magia.”
@@ -19,10 +19,9 @@ A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hun
 Hunggard tem como as seguintes regras/mecânicas:
 
 São 6 players;
-São utilizados DADOS para o desenvolvimento da partida (passos dos champs);
+São utilizados DADOS para o desenvolvimento da partida (passos dos personagens e dano causado a outros jogadores);
 10 personagens voltados aos reinos (temática medieval);
-Ambos os players tem uma jogada por rodada e isso define o desempenho na partida podendo ficar para trás ou ultrapassar os adversários;
-Cada champ possui suas pseudo habilidades para entrar em combate.
+Os jogadores têm uma jogada por rodada e isso define o desempenho na partida podendo ficar para trás ou ultrapassar os adversários;
 
 ### Características e Diferenciais
 Hunggard tem como diferencial uma temática extremamente atrativa com foco total em entreter os jogadores com a problemática medieval do game. Ademais possibilita um aprofundamento estético incrível sobre o conflito principal abordado pela ganância e abstinência dos reinos pelo elemento mais precioso da Era. A seguir uma citação: “Derrubaremos reinos, colinas, montanhas…tudo que estiver em nosso caminho para conquistarmos o maior bem já visto pela humanidade, à Magia.”
@@ -53,7 +52,7 @@ Hunggard é um jogo medieval que tem como foco a utilização da magia para comb
 
 ## História e Gameplay
 
-A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hunggard, se vive na grande" Era da magia ", diversos reinos coabitam em conflito por um motivo, depois da descoberta da magia, os humanos passaram a utilizá-la de todas as formas a todo momento em suas vidas, ao usufruir da energia mágica de forma inconsequente, a natureza acabou pagando o preço, como terras passaram a não dar mais frutos, os animais dinamizados pouco a pouco a entrar em estinção, tudo isso por efeito colateral do mal uso da magia. ” 
+A seguir uma breve descrição da história do jogo: “Nas vastas terras de Hunggard, se vive na grande" Era da magia ", diversos reinos coabitam em conflito por um motivo, depois da descoberta da magia, os humanos passaram a utilizá-la de todas as formas a todo momento em suas vidas, ao usufruir da energia mágica de forma inconsequente, a natureza acabou pagando o preço, como terras passaram a não dar mais frutos, os animais dinamizados pouco a pouco a entrar em extinção, tudo isso por efeito colateral do mal uso da magia. ” 
 
 A gameplay se dá através de personagens que se movem pelas casas do tabuleiro, lutando contra monstro e contra outros jogadores para alcançar a vitória.
 
@@ -62,13 +61,15 @@ A gameplay se dá através de personagens que se movem pelas casas do tabuleiro,
 
 O jogo se torna mais desafiador de acordo com a progressão dos jogadores, que se tornam mais poderosos por conta dos itens coletados ao decorrer do jogo.
 
+O mata do jogo contará com obstáculos, como um rio que só pode ser cruzado pelas pontes.
+
+Há diversos baús espalhados pelo mapa do jogo, que contêm itens.
+
 ![image](https://user-images.githubusercontent.com/89281859/144680732-b9916940-0e62-4624-8912-630a053efaf2.png)
 
 ## Personagens e Controles
 
 O jogo conta com 6 personagens que devem ser escolhidos por cada jogador no começo da partida. Eles são divididos em 3 turmas: Assassino, Guerreiro e Mago. Cada classe conta com dois personagens. Os personagens se movem pelo tabuleiro de acordo com seu atributo de velocidade e o valor tirado nos dados no início de cada turno. Cada personagem conta com atributos diferentes, que são uteis em diferentes situações de combate
-
-## História dos Personagens
 
 # Stella 
 Nascida em uma grande família tradicional de bruxos, Stella foi criada com rigor para atingir as expectativas de uma Bruxa prodígio. Porém desde cedo teve problemas de relacionamento com seus familiares por divergir das expectativas. Stella teve muita dificuldade para atingir as expectativas criadas, acima de tudo ela se apaixonou por uma jovem garota de uma família rival, isso atraiu maus olhares preconceituosos para a pequena Bruxa. Com muito esforço e dedicação Stella finalmente atingiu um incrível potencial mágico, superou todas as barreiras e surpreendeu a todos.
@@ -102,21 +103,23 @@ Um ancião formidável na arte da magia, sua sabedoria faz com que Tullen seja u
 
 ## Principais Conceitos do Gameplay e Características Específicas da Plataforma
 
-O game tem como gênero RPG, uma arena de combate em tempo real distinguido pelos turnos de definição de jogabilidade de cada personagem. O principal conceito de gameplay de Hunggard são as cartas, que são obtidas cada vez em que o personagem do jogador alcançar uma casa específica no talubeiro.
+O game tem como gênero RPG, uma arena de combate em tempo real distinguido pelos turnos de definição de jogabilidade de cada personagem. O principal conceito de gameplay de Hunggard são as cartas, que são obtidas cada vez em que o personagem do jogador alcançar uma casa específica no taluleiro.
 
 ## Mundo do Jogo
 
 O jogo se passa em Hunggard, onde diversos reinos lutam pelo controle total da magia. O jogador poderá se deparar com tesouros e monstros durante sua jornada.
 
+## Interface
+Por ser um jogo de tabuleiro, a o único tipo de interface presente em Hunggard é o tabuleiro e as cartas que serão utilizadas pelos jogadores
+
 ## Mecânicas
 
 Hunggard tem como as seguintes regras/mecânicas:
 
-* São 6 players;
+* O jogo poderá ser jogado de 2 a 6 jogadores;
 * São utilizados DADOS para o desenvolvimento da partida (quantos passos um jogador poderá andar na rodada e quanto dano um jogador causará ao atacar outro)
-* Ambos os players tem uma jogada por rodada e isso define o desempenho
 na partida podendo ficar para trás ou ultrapassar os adversários;
-
+* Há diversos baús espalhados pelo mapa do jogo. Cada vez em que jogador passar por um, deve tirar uma carta do baralho e botar em sua mão.
 Ademais o combate será edificado por meio de turnos e atributos especiais:
 
 -Armas físicas usam o atributo BRAVURA para atacar.
@@ -137,7 +140,13 @@ VELOCIDADE
 MENTAL
 DEFESA
 
+## Inimigos e Bosses
 
+Ao retirar uma carta, o jogador pode acabar pegando uma carta de inimigo, que vai lhe causar alguma desvantagem no jogo.
+
+##  Cenas de Corte, Materiais de Bônus e Concorrência
+
+Por ser um jogo de tabuleiro, Hunggard não conta com cenas de Computação Gráfica. A diversificação de itens e personagens faz com que os jogadores se sintam motivados a jogar novamente. O jogo concorrerá no mercado com outros jogos de tabuleiro já existentes.
 
 ##### LISTA DE AÇÕES
 
@@ -147,7 +156,5 @@ Atacar - Para atacar, o alvo deve estar no alcance mínimo de sua arma.
 
 Vasculhar - Para vasculhar o jogador deve estar ao lado de uma pilha de itens no tabuleiro.
 
-## Inimigos
 
-Ao retirar uma carta, o jogador pode acabar pegando uma carta de inimigo, que vai lhe causar alguma desvantagem no jogo.
 
